@@ -2,7 +2,7 @@
 
 🌐 Technical Foundations
 .NET & C#: Crafting applications with a focus on the MVC framework.
-RESTful API: Enhancing server-client interactions in projects like my movie app.
+RESTful API: Enhancing server-client interactions.
 Web Technologies: Building dynamic web pages with HTML, CSS, JavaScript, and a growing expertise in Angular.
 
 💼 Business & Tech Intersection
