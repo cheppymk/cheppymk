@@ -1,10 +1,10 @@
-👋 Hi, I'm Tosho! I'm passionate about diving into the depths of software development, bridging the gap between technical expertise and business acumen. My journey has been marked by a relentless pursuit of knowledge and the application of my skills in practical, innovative ways.
+👋 Hi, I'm Tosho! I'm passionate about diving into the depths of software development and bridging the gap between technical expertise and business acumen. My journey has been marked by a relentless pursuit of knowledge and applying my skills in practical, innovative ways.
 
 🌐 Technical Foundations
 
-.NET & C#: Crafting applications with a focus on the MVC framework.
+.NET & C#: Crafting applications focusing on the MVC framework.
 RESTful API: Enhancing server-client interactions.
-Web Technologies: Building dynamic web pages with HTML, CSS, JavaScript, and a growing expertise in Angular.
+Web Technologies: Building dynamic web pages with HTML, CSS, JavaScript, and a growing knowledge of Angular.
 
 💼 Business & Tech Intersection
 
