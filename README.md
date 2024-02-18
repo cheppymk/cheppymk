@@ -12,7 +12,7 @@ With experience in the tech business sector, I bring a unique perspective to sof
 
 📈 My Development Philosophy
 
-I am driven by a passion for continuous learning and seeing every challenge as an opportunity for growth. I aim to blend my business insights with technical prowess to create innovative solutions.
+I am driven by a passion for continuous learning, and seeing every challenge as an opportunity for growth. I aim to blend my business insights with technical prowess to create innovative solutions.
 
 🤝 Let's Connect!
 
